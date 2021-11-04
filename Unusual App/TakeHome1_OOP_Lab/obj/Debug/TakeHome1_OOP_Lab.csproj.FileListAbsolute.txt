@@ -1,0 +1,102 @@
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe.config
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.pdb
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csprojAssemblyReference.cache
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.Properties.Resources.resources
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.GenerateResource.cache
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CoreCompileInputs.cache
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.exe
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.pdb
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\MaterialSkin.dll
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CopyComplete
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormLogin.resources
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 Lab (C#)\29.03.2021\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormCalculator.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe.config
+D:\2020-2021 Second Semeter\OOP-II-Lab\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe
+D:\2020-2021 Second Semeter\OOP-II-Lab\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.pdb
+D:\2020-2021 Second Semeter\OOP-II-Lab\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csprojAssemblyReference.cache
+D:\2020-2021 Second Semeter\OOP-II-Lab\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormCalculator.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormLogin.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.Properties.Resources.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.GenerateResource.cache
+D:\2020-2021 Second Semeter\OOP-II-Lab\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CoreCompileInputs.cache
+D:\2020-2021 Second Semeter\OOP-II-Lab\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CopyComplete
+D:\2020-2021 Second Semeter\OOP-II-Lab\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.exe
+D:\2020-2021 Second Semeter\OOP-II-Lab\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.pdb
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csprojAssemblyReference.cache
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormCalculator.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormLogin.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.Properties.Resources.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.GenerateResource.cache
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CoreCompileInputs.cache
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.exe
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.pdb
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe.config
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.pdb
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CopyComplete
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.SignUpForm.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-1\Group-17\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.ApplicationMenu.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe.config
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.pdb
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csprojAssemblyReference.cache
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.ApplicationMenu.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.EncryptionForm.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.SignUpForm.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormCalculator.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormLogin.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.Properties.Resources.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.GenerateResource.cache
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CoreCompileInputs.cache
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CopyComplete
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.exe
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-2\Grup-17-Project-Second-Version\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.pdb
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe.config
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.pdb
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csprojAssemblyReference.cache
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.ApplicationMenu.resources
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.EncryptionForm.resources
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.SignUpForm.resources
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormCalculator.resources
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormLogin.resources
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.Properties.Resources.resources
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.GenerateResource.cache
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CoreCompileInputs.cache
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CopyComplete
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.exe
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.pdb
+C:\Users\stdca\OneDrive\Masaüstü\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.PositionGuesserForm.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe.config
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.pdb
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csprojAssemblyReference.cache
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.ApplicationMenu.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.EncryptionForm.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.SignUpForm.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormCalculator.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormLogin.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.PositionGuesserForm.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.Properties.Resources.resources
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.GenerateResource.cache
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CoreCompileInputs.cache
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CopyComplete
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.exe
+D:\2020-2021 Second Semeter\OOP-II-Lab\Odev-4\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.pdb
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe.config
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.exe
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\bin\Debug\TakeHome1_OOP_Lab.pdb
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csprojAssemblyReference.cache
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.ApplicationMenu.resources
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.EncryptionForm.resources
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.SignUpForm.resources
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormCalculator.resources
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.FormLogin.resources
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.PositionGuesserForm.resources
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.Properties.Resources.resources
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.GenerateResource.cache
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CoreCompileInputs.cache
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.csproj.CopyComplete
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.exe
+D:\Danyal Jet\Lessons\Semesters\Semester 4\OOP Lab\Homework04\TakeHome1_OOP_Lab\TakeHome1_OOP_Lab\obj\Debug\TakeHome1_OOP_Lab.pdb
