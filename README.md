@@ -3,7 +3,7 @@
 
 
  
- Note: This project was coded using OOP logic with school friends. Since the project is one of our first desktop applications, it is inexperienced.
+ Note: This project was coded using OOP logic with @furkan-taskin. Since the project is one of our first desktop applications, it is inexperienced.
 
 
  
