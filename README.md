@@ -1,4 +1,4 @@
-# UnusualApp
+# Ciphers
  An unusual application that you can do calculation, encryption, decryption, and play a game!
 
 
